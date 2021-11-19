@@ -1,7 +1,7 @@
 ### Hello, I'm William! 👋
 
 <samp>
-💻 Senior front-end developer<br/> 
-🎵 music lover  <br/>
+💻 Front-end developer<br/> 
+🎵 Music lover  <br/>
 🎎 日本語 enthusiast 
 </samp>
